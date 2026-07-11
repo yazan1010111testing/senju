@@ -19,8 +19,8 @@ local Config = {
     DiscordInvite = "t9xNXQzSvs",
     
     -- Script URLs (UPDATE THESE WITH YOUR GITHUB RAW URLS)
-    KeySystemURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/basketball_macro/key_system.lua",
-    MainScriptURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/basketball_macro/macro_recorder.lua",
+    KeySystemURL = "https://raw.githubusercontent.com/yazan1010111testing/senju/refs/heads/main/key_system.lua",
+    MainScriptURL = "https://raw.githubusercontent.com/yazan1010111testing/senju/refs/heads/main/macro_recorder.lua",
     
     -- Settings
     SaveKey = true, -- Save key locally
